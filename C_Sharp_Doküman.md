@@ -1,4 +1,4 @@
-# C# Eğitim Rehberi - GENİŞLETİLMİŞ TAM SÜRÜM
+# C# Eğitim Rehberi
 
 ## Programcılığa Giriş ve C# Temelleri
 
@@ -5138,7 +5138,7 @@ class Program
             for (int j = 0; j < boyut; j++)
             {
                 if (i == 0 || i == boyut - 1 || j == 0 || j == boyut - 1)
-                    Console.Write("█");
+                    Console.Write("");
                 else
                     Console.Write(" ");
             }
@@ -5159,7 +5159,7 @@ class Program
             for (int j = 0; j < genislik; j++)
             {
                 if (i == 0 || i == yukseklik - 1 || j == 0 || j == genislik - 1)
-                    Console.Write("█");
+                    Console.Write("");
                 else
                     Console.Write(" ");
             }
@@ -5181,7 +5181,7 @@ class Program
             
             for (int j = 0; j <= i; j++)
             {
-                Console.Write("█");
+                Console.Write("");
             }
             Console.WriteLine();
         }
@@ -5514,7 +5514,7 @@ class Program
             
             if (i == 0)
             {
-                Console.WriteLine("\n⏰ ZAMAN!");
+                Console.WriteLine("\n ZAMAN!");
                 break;
             }
             
@@ -5730,17 +5730,17 @@ class Program
             
             if (sonuc == 1)
             {
-                Console.WriteLine("🎉 Siz kazandınız!");
+                Console.WriteLine(" Siz kazandınız!");
                 oyuncuSkor++;
             }
             else if (sonuc == -1)
             {
-                Console.WriteLine("😔 Bilgisayar kazandı!");
+                Console.WriteLine(" Bilgisayar kazandı!");
                 bilgisayarSkor++;
             }
             else
             {
-                Console.WriteLine("🤝 Beraberlik!");
+                Console.WriteLine(" Beraberlik!");
                 beraberlik++;
             }
             
@@ -5753,11 +5753,11 @@ class Program
         Console.WriteLine($"Beraberlik: {beraberlik} oyun");
         
         if (oyuncuSkor > bilgisayarSkor)
-            Console.WriteLine("🎉 Genel kazanan: OYUNCU!");
+            Console.WriteLine(" Genel kazanan: OYUNCU!");
         else if (bilgisayarSkor > oyuncuSkor)
-            Console.WriteLine("🤖 Genel kazanan: BİLGİSAYAR!");
+            Console.WriteLine(" Genel kazanan: BİLGİSAYAR!");
         else
-            Console.WriteLine("🤝 Berabere kaldınız!");
+            Console.WriteLine(" Berabere kaldınız!");
     }
     
     static int Kazanan(int oyuncu, int bilgisayar)
