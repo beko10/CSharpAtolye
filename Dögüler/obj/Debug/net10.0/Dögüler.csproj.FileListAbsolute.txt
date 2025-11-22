@@ -1,0 +1,14 @@
+D:\CSharpAtolye\Dögüler\bin\Debug\net10.0\Dögüler.exe
+D:\CSharpAtolye\Dögüler\bin\Debug\net10.0\Dögüler.deps.json
+D:\CSharpAtolye\Dögüler\bin\Debug\net10.0\Dögüler.runtimeconfig.json
+D:\CSharpAtolye\Dögüler\bin\Debug\net10.0\Dögüler.dll
+D:\CSharpAtolye\Dögüler\bin\Debug\net10.0\Dögüler.pdb
+D:\CSharpAtolye\Dögüler\obj\Debug\net10.0\Dögüler.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpAtolye\Dögüler\obj\Debug\net10.0\Dögüler.AssemblyInfoInputs.cache
+D:\CSharpAtolye\Dögüler\obj\Debug\net10.0\Dögüler.AssemblyInfo.cs
+D:\CSharpAtolye\Dögüler\obj\Debug\net10.0\Dögüler.csproj.CoreCompileInputs.cache
+D:\CSharpAtolye\Dögüler\obj\Debug\net10.0\Dögüler.dll
+D:\CSharpAtolye\Dögüler\obj\Debug\net10.0\refint\Dögüler.dll
+D:\CSharpAtolye\Dögüler\obj\Debug\net10.0\Dögüler.pdb
+D:\CSharpAtolye\Dögüler\obj\Debug\net10.0\Dögüler.genruntimeconfig.cache
+D:\CSharpAtolye\Dögüler\obj\Debug\net10.0\ref\Dögüler.dll

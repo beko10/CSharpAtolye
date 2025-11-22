@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CSharp101/CSharp101.csproj" />
+  <Project Path="Dögüler/Dögüler.csproj" />
+  <Project Path="KararYapıları/KararYapıları.csproj" />
+</Solution>

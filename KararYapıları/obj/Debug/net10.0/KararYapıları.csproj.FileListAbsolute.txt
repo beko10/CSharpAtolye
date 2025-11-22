@@ -1,0 +1,14 @@
+D:\CSharpAtolye\KararYapıları\obj\Debug\net10.0\KararYapıları.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpAtolye\KararYapıları\obj\Debug\net10.0\KararYapıları.AssemblyInfoInputs.cache
+D:\CSharpAtolye\KararYapıları\obj\Debug\net10.0\KararYapıları.AssemblyInfo.cs
+D:\CSharpAtolye\KararYapıları\obj\Debug\net10.0\KararYapıları.csproj.CoreCompileInputs.cache
+D:\CSharpAtolye\KararYapıları\bin\Debug\net10.0\KararYapıları.exe
+D:\CSharpAtolye\KararYapıları\bin\Debug\net10.0\KararYapıları.deps.json
+D:\CSharpAtolye\KararYapıları\bin\Debug\net10.0\KararYapıları.runtimeconfig.json
+D:\CSharpAtolye\KararYapıları\bin\Debug\net10.0\KararYapıları.dll
+D:\CSharpAtolye\KararYapıları\bin\Debug\net10.0\KararYapıları.pdb
+D:\CSharpAtolye\KararYapıları\obj\Debug\net10.0\KararYapıları.dll
+D:\CSharpAtolye\KararYapıları\obj\Debug\net10.0\refint\KararYapıları.dll
+D:\CSharpAtolye\KararYapıları\obj\Debug\net10.0\KararYapıları.pdb
+D:\CSharpAtolye\KararYapıları\obj\Debug\net10.0\KararYapıları.genruntimeconfig.cache
+D:\CSharpAtolye\KararYapıları\obj\Debug\net10.0\ref\KararYapıları.dll
